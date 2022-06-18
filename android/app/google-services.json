@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339943923024",
+    "project_id": "besh-e9e4b",
+    "storage_bucket": "besh-e9e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339943923024:android:d935f2981d176573672055",
+        "android_client_info": {
+          "package_name": "com.example.besh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339943923024-2svj4ttf2kvfpud002h63aoiaij6p2s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsr4BnWleiOcLY-dIpwP841zq-dLasu5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339943923024-2svj4ttf2kvfpud002h63aoiaij6p2s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
