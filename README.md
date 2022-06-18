@@ -1,4 +1,4 @@
-# besh
+# BookHub
 
 A new Flutter application.
 
